@@ -1,0 +1,23 @@
+2024-01-01 Old
+    expenses:snacks                 3,000. KRW
+    assets:bank                    -3,000. KRW
+
+2025-01-01 GS25
+    expenses:snacks                 3,000. KRW
+    assets:bank                    -3,000. KRW
+
+2025-01-01 Small Inc.
+    expenses:misc                     100. KRW
+    assets:bank                      -100. KRW
+
+2025-01-02 Restaurant
+    expenses:eatout                30,000. KRW
+    assets:bank                   -30,000. KRW
+
+2025-01-03 Work
+    assets:bank                   100,000. KRW
+    income:work                  -100,000. KRW
+
+2025-01-04 USD
+    assets:bank:bank1                      40. USD @@ 50,000. KRW
+    assets:bank:bank1                 -50,000. KRW
